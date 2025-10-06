@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Пример с использованием MTCNN для глаз:
 ```bash
-python FaceEyes-Detection.py --max_images 15 --export_image_folder "export" --show --mtcnn-eye
+python FaceEyes-Detection.py --max_images 15 --show --mtcnn-eye
 ```
 
 ## Структура проекта
